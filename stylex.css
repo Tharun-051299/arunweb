@@ -1,0 +1,39 @@
+header{
+      background-color: cadetblue;
+}
+content{
+    background-color: chartreuse;
+}
+footer{
+    background-color: coral;
+
+}
+a{
+    color:chartreuse;
+    font-weight: bold;
+    transition: 0.5s;
+}
+a:hover{
+    color: darkgoldenrod;
+    transition: 0.5s;
+}
+span{
+    text-shadow: darkgray;
+    margin-left: 50px;
+    color: darkgoldenrod;
+}
+.nav ul li a{
+    color: hotpink;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.nav ul li a:hover{
+    color: indigo;
+    transition: 0.5s;
+}
+.nav-item{
+    font-weight: 500;
+    display: inline-block;
+    padding: 0px 40px;
+    transition: all 0.3s ease 0s;
+}
